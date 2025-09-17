@@ -1,7 +1,8 @@
-### Hi there 👋, This is Md. Tanzimul Ahsan
-#### I am
+
 ![I am](https://media.licdn.com/dms/image/v2/D4D16AQHe21kWysHQug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711131989898?e=1761177600&v=beta&t=8jHSdirNaNeZfT9mUO_dBRPzM2vbFlODbZQojIF9Uyw)
 
+### Hi there 👋, This is Md. Tanzimul Ahsan
+#### I am
 - 🎓 Undergraduate Student at Uttara University    
 - 💻 Learning Programming & Web Development  
 - 🌱 Interested in Open Source & Problem Solving  
