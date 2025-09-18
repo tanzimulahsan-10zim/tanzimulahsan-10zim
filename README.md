@@ -1,5 +1,5 @@
 
-![I am](https://media.licdn.com/dms/image/v2/D4D16AQHe21kWysHQug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711131989898?e=1761177600&v=beta&t=8jHSdirNaNeZfT9mUO_dBRPzM2vbFlODbZQojIF9Uyw)
+<img width="1584" height="396" alt="BLack Minimalist Corporate Staff Identity LinkedIn Banner" src="https://github.com/user-attachments/assets/ca6784a5-242e-4290-a430-26111b90b2d0" />
 
 ### Hi there 👋, This is Md. Tanzimul Ahsan
 #### I am
